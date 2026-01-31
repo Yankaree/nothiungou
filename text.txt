@@ -44,7 +44,7 @@ d
 ⁎⋆ Skill: 2
 《 Tên. Toái Thiên Hầu Chi Điếu
 《 Mô tả. Yankare gồng lực rồi ném cần câu, phá 1 phần nhỏ giáp khi trúng nạn nhân và gây lượng sát thương hệ phong vừa đủ để gây thương tích nhẹ,sau khi ném xong vũ khí sẽ trở về tay của Yankare với 1 tốc độ khá cao
-《 Phạm vi. 250m
+《 Phạm vi. 100m
 《 Thời gian hồi chiêu: 2 turn
 《 Điểm mạnh. Có khả năng ném xa, khá thích hợp cho tình huống cần tấn công tầm xa
 《 Điểm yếu : bị khắc chế bởi tường, và các vật thể,kĩ năng có khả năng chắn đường
@@ -59,7 +59,7 @@ d
 《 Tác dụng phụ. Vừa choáng nhẹ vừa nôn ra máu, giảm khả năng chiến đấu (hồi phục lại sau 2 turn)
 ⁎⋆ Skill: 4
 《 Tên. Can Môn Quan
-《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 4 giây,khi hết thời gian bất tử,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
+《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 2 giây,khi hết thời gian bất tử,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
 《 Phạm vi.15m
 《 Thời gian hồi chiêu. 4 turn
 《 Điểm mạnh. Đây là kỹ năng phá giáp rất mạnh, xuyên thủng được nhiều lớp giáp phòng thủ của địch
