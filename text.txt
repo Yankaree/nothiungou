@@ -42,7 +42,7 @@ d
 《 Điểm yếu. Chiêu không thể dùng được nếu trúng độc,bị chặn bởi khiên
 《 Tác dụng phụ. Nếu dùng skill này lần 2 thì sẽ bị nôn ra máu,dùng quá nhiều skill 1 có thể bị ngất
 ⁎⋆ Skill: 2
-《 Tên. Toán Thiên Hầu Chi Điếu
+《 Tên. Toái Thiên Hầu Chi Điếu
 《 Mô tả. Yankare gồng lực rồi ném cần câu, phá 1 phần nhỏ giáp khi trúng nạn nhân và gây lượng sát thương hệ phong vừa đủ để gây thương tích nhẹ,sau khi ném xong vũ khí sẽ trở về tay của Yankare với 1 tốc độ khá cao
 《 Phạm vi. 250m
 《 Thời gian hồi chiêu: 2 turn
@@ -51,7 +51,7 @@ d
 《 Tác dụng phụ. : skill chỉ có tác dụng thật sự khi cầm cần câu, nếu sử dụng vũ khí khác sẽ bị giảm khoảng cách ném xuống còn 50m(trừ giáo)
 ⁎⋆ Skill: 3
 《 Tên. Định Hải Thần Câu
-《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu  từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn
+《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn
 《 Phạm vi.15m
 《 Thời gian hồi chiêu. 2 turn
 《 Điểm mạnh. Chiêu bùng nổ sát thương từ cú đập,kháng mọi loại hiệu ứng bất lợi trong turn đó
