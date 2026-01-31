@@ -27,10 +27,10 @@ d
 ❕⋆ — Loài:Thỏ
           ⋋———————————⋌
 »⋆⁎ 𝐃𝐢𝐯𝐢𝐬𝐢𝐨𝐧 (khối / hệ dạy ) : Lao công
-(Học viên thêm khối / giáo viên thêm hệ dạy.)
+ 
 »⋆⁎ Cấp bậc [ 𝐋𝐞𝐯𝐞𝐥 ] : B
 »⋆⁎ 𝐄𝐧𝐭𝐫𝐲 𝐒𝐜𝐨𝐫𝐞:
-(Điểm đầu vào | ngoài học viên ra không cần ghi)
+ 
             ✧- ✦ 𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨 ✦ -✧
 ✶⁎⋆ Vũ khí thường sử dụng: Cần Câu Thép Ren
 ✶⁎⋆Ngoại hình: Cần được làm bằng chất liệu Thép Ren,1 loại chất liệu vừa cứng vừa dẻo, những vẫn có thể bị đứt do kéo quá mức,dây cáp được làm bằng 1 loại dây bí mật, chỉ biết độ cứng của nó như đá và rất dẻo
@@ -51,8 +51,8 @@ d
 《 Điểm yếu : bị khắc chế bởi tường, và các vật thể,kĩ năng có khả năng chắn đường
 《 Tác dụng phụ. : skill chỉ có tác dụng thật sự khi cầm cần câu, nếu sử dụng vũ khí khác sẽ bị giảm khoảng cách ném xuống còn 50m(trừ giáo)
 ⁎⋆ Skill: 3
-《 Tên. Thái Cực Quyền Pháp
-《 Mô tả. Yankare miễn nhiễm các hiệu ứng bất lợi trong turn đó,và nói 1 câu: "Thái Cực Sinh Lưỡng Nghi,Lưỡng Nghi Sinh Tứ Tượng,Tứ Tượng Sinh Bát Quái",đồng thời Yankare xoay cần câu với tốc độ rất cao,gây sát thương lớn, và sau khi xoay 20 giây(xoay trong vòng 1 turn,khi thi triển kỹ năng), Yankare lại nói tiếp:"Bát Quái,Định Càn Khôn!", rồi sau đó, Yankare vung cần đập mạnh xuống đất, gây ra sát thương khá lớn(60% sát thương hệ phong,30% sát thương vật lý), giảm 50% giáp của nạn nhân trong vòng 2 turn
+《 Tên. Định Hải Thần Câu
+《 Mô tả. Yankare gồng lực,rồi đập cần câu  từ trái sang phải (làm lại 5 đập ) rồi đâ in nhân,gây 100% sát thương hệ phong,thương tích lớn   
 《 Phạm vi.15m
 《 Thời gian hồi chiêu. 3 turn
 《 Điểm mạnh. Chiêu bùng nổ sát thương từ cú đập,kháng mọi loại hiệu ứng bất lợi trong turn đó
