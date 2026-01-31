@@ -24,7 +24,7 @@ d
 ❕⋆ — Chiều cao:1m59
 ❕⋆ — Tính cách: không bao giờ bỏ cuộc,dù chỉ là một cơ hội nhỏ, khá hòa đồng,vui vẻ với mọi người
 ❕⋆ — Hệ:Phong
-❕⋆ — Loài:Thỏ
+❕⋆ — Loài:Rồng
           ⋋———————————⋌
 »⋆⁎ 𝐃𝐢𝐯𝐢𝐬𝐢𝐨𝐧 (khối / hệ dạy ) : Lao công
  
@@ -32,7 +32,8 @@ d
  
             ✧- ✦ 𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨 ✦ -✧
 ✶⁎⋆ Vũ khí thường sử dụng: Cần Câu Thép Ren
-✶⁎⋆Ngoại hình: Cần được làm bằng chất liệu Thép Ren,1 loại chất liệu vừa cứng vừa dẻo, những vẫn có thể bị đứt do kéo quá mức,dây cáp được làm bằng 1 loại dây bí mật, chỉ biết độ cứng của nó như đá và rất dẻo
+✶⁎⋆ Ngoại hình vũ khí: cần câu được làm bằng chất liệu thép ren hợp kim, có sức bền và dẻo dai rất cao, những vẫn có khả năng gãy cần do sức bền của nó cũng có giới hạn, cước được làm bằng chất liệu bí mật, nhưng sức mạnh của nó thì vẫn là ẩn số
+✶⁎⋆Ngoại hình nhân vật: ngoại hình khá khiêm tốn, chỉ 1m59, có 2 chiếc sừng mọc trên dầu,dài khoảng 5-10cm,cơ thể được rèn luyện qua từng ngày câu cá trăm cân ở vùng núi,trang phục cũng đơn giản,không có gì nổi bật
 ✶⁎⋆ Skill: 1
 《 Tên. Phá Ống Chìm Thuyền
 《 Mô tả. Yankare gồng lực rồi đập mạnh cần vào nạn nhân,gây 100% sát thương vật lý,thương tích bình thường
@@ -59,8 +60,8 @@ d
 《 Tác dụng phụ. Vừa choáng nhẹ vừa nôn ra máu, giảm khả năng chiến đấu (hồi phục lại sau 2 turn)
 ⁎⋆ Skill: 4
 《 Tên. Can Môn Quan
-《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 2 giây,khi hết thời gian bất tử,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
-《 Phạm vi.15m
+《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 3 giây,khi hết thời gian bất tử,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
+《 Phạm vi.20m
 《 Thời gian hồi chiêu. 4 turn
 《 Điểm mạnh. Đây là kỹ năng phá giáp rất mạnh, xuyên thủng được nhiều lớp giáp phòng thủ của địch
 《 Điểm yếu. Khi xoay bào mòn thể lực của bản thân
