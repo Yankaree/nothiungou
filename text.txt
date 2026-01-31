@@ -22,14 +22,13 @@ d
 ❕⋆ — Giới tính :Nam
 ❕⋆ — Xu hướng tính dục:Bixsexual
 ❕⋆ — Chiều cao:1m59
-❕⋆ — Tính cách: không bao giờ bỏ cuộc,dù chỉ là một cơ hội nhỏ, khá hòa đồng,Phong vẻ với mọi người
+❕⋆ — Tính cách: không bao giờ bỏ cuộc,dù chỉ là một cơ hội nhỏ, khá hòa đồng,vui vẻ với mọi người
 ❕⋆ — Hệ:Phong
 ❕⋆ — Loài:Thỏ
           ⋋———————————⋌
 »⋆⁎ 𝐃𝐢𝐯𝐢𝐬𝐢𝐨𝐧 (khối / hệ dạy ) : Lao công
  
 »⋆⁎ Cấp bậc [ 𝐋𝐞𝐯𝐞𝐥 ] : B
-»⋆⁎ 𝐄𝐧𝐭𝐫𝐲 𝐒𝐜𝐨𝐫𝐞:
  
             ✧- ✦ 𝐁𝐚𝐬𝐢𝐜 𝐈𝐧𝐟𝐨 ✦ -✧
 ✶⁎⋆ Vũ khí thường sử dụng: Cần Câu Thép Ren
@@ -43,8 +42,8 @@ d
 《 Điểm yếu. Chiêu không thể dùng được nếu trúng độc,bị chặn bởi khiên
 《 Tác dụng phụ. Nếu dùng skill này lần 2 thì sẽ bị nôn ra máu,dùng quá nhiều skill 1 có thể bị ngất
 ⁎⋆ Skill: 2
-《 Tên. Tường Cối Xay Gió
-《 Mô tả. Yankare gồng lực rồi ném cần câu, phá 1 phần nhỏ giáp khi trúng nạn nhân và gây sát thương hệ phong nhưi\khi ném xong vũ khí sẽ trở về tay của Yankare.
+《 Tên. Toán Thiên Hầu Chi Điếu
+《 Mô tả. Yankare gồng lực rồi ném cần câu, phá 1 phần nhỏ giáp khi trúng nạn nhân và gây lượng sát thương hệ phong vừa đủ để gây thương tích nhẹ,sau khi ném xong vũ khí sẽ trở về tay của Yankare với 1 tốc độ khá cao
 《 Phạm vi. 250m
 《 Thời gian hồi chiêu: 2 turn
 《 Điểm mạnh. Có khả năng ném xa, khá thích hợp cho tình huống cần tấn công tầm xa
@@ -52,20 +51,20 @@ d
 《 Tác dụng phụ. : skill chỉ có tác dụng thật sự khi cầm cần câu, nếu sử dụng vũ khí khác sẽ bị giảm khoảng cách ném xuống còn 50m(trừ giáo)
 ⁎⋆ Skill: 3
 《 Tên. Định Hải Thần Câu
-《 Mô tả. Yankare gồng lực,rồi đập cần câu  từ trái sang phải (làm lại 5 đập ) rồi đâ in nhân,gây 100% sát thương hệ phong,thương tích lớn   
+《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu  từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn
 《 Phạm vi.15m
-《 Thời gian hồi chiêu. 3 turn
+《 Thời gian hồi chiêu. 2 turn
 《 Điểm mạnh. Chiêu bùng nổ sát thương từ cú đập,kháng mọi loại hiệu ứng bất lợi trong turn đó
 《 Điểm yếu. Chiêu sẽ phản lại 1 phần sát thương (sẽ gây thương tích cho bản thân nhưng vẫn có thể chiến đấu được)
 《 Tác dụng phụ. Vừa choáng nhẹ vừa nôn ra máu, giảm khả năng chiến đấu (hồi phục lại sau 2 turn)
 ⁎⋆ Skill: 4
 《 Tên. Can Môn Quan
-《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn Quan!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 4 giây,sau đó,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
+《 Mô tả. Yankare lập tức nói lên 1 câu rất lớn: "Thục Đạo Sơn Điếu Pháp,Can Môn!" Và bật lên khỏi mặt đất,xoay với tốc độ ánh sáng, trong lúc xoay, sẽ bất tử trong vòng 4 giây,khi hết thời gian bất tử,Yankare đập mạnh cần,gây ra thương tích cực lớn(50% sát thương hệ phong,50% sát thương vật lý), đập tan giáp của nạn nhân
 《 Phạm vi.15m
 《 Thời gian hồi chiêu. 4 turn
 《 Điểm mạnh. Đây là kỹ năng phá giáp rất mạnh, xuyên thủng được nhiều lớp giáp phòng thủ của địch
 《 Điểm yếu. Khi xoay bào mòn thể lực của bản thân
-《 Tác dụng phụ. Nôn ra lượng máu lớn,nếu nôn quá nhiều máu có thể bị ngất
+《 Tác dụng phụ. Nôn ra lượng máu lớn,nếu nôn quá nhiều máu có thể bị ngất, giảm khả năng chiến đấu 
               ✧- 𝐊𝐄𝐘 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 -✧
 ✶⁎⋆𝐁𝐚𝐜𝐤𝐒𝐭𝐨𝐫𝐲: ẩn
 ✶⁎⋆𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 (thông tin thêm) 《có thể ẩn》:Yankare đã từng là một người câu cá ở vùng núi, có khả năng câu cá con nào là con cá đó lên bờ, sức mạnh này Yankare đã duy trì suốt 4 năm câu cá của Yankare.
