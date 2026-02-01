@@ -50,11 +50,11 @@
 《 Tác dụng phụ. : skill chỉ có tác dụng thật sự khi cầm cần câu, nếu sử dụng vũ khí khác sẽ bị giảm khoảng cách ném xuống còn 50m(trừ giáo)
 ⁎⋆ Skill: 3
 《 Tên. Định Hải Thần Câu
-《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn
+《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,gây sát thương lớn,đồng thời,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn, và phá chiêu đang có hiệu lực ở nạn nhân(khi sóng xung kích trúng đối thủ)
 《 Phạm vi.15m
 《 Thời gian hồi chiêu. 2 turn
-《 Điểm mạnh. Chiêu bùng nổ sát thương từ cú đập,kháng mọi loại hiệu ứng bất lợi trong turn đó
-《 Điểm yếu. Chiêu sẽ phản lại 1 phần sát thương (sẽ gây thương tích cho bản thân nhưng vẫn có thể chiến đấu được)
+《 Điểm mạnh. chiêu gây sát thương lớn,sóng xung kích có khả năn mất khả năng chiến đấu,đồng thời còn phá chiêu đang thi triển của nạn nhân.
+《 Điểm yếu. Sóng xung kích không thể chặn được hiệu ứng bất tử và miễn khống chế.
 《 Tác dụng phụ. Vừa choáng nhẹ vừa nôn ra máu, giảm khả năng chiến đấu (hồi phục lại sau 2 turn)
 ⁎⋆ Skill: 4
 《 Tên. Can Môn Quan
