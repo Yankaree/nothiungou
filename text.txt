@@ -52,7 +52,7 @@
 《 Tên. Định Hải Thần Câu
 《 Mô tả. Yankare bay lên trời,gồng lực,rồi đập cần câu từ trái sang phải (làm lại 5 lần) rồi đập mạnh vào nơi được chỉ định,gây sát thương lớn,đồng thời,tạo ra sóng xung kích gây mất khả năng chiến đấu trong thời gian ngắn, và phá chiêu đang có hiệu lực ở nạn nhân(khi sóng xung kích trúng đối thủ)
 《 Phạm vi.15m
-《 Thời gian hồi chiêu. 2 turn
+《 Thời gian hồi chiêu. 3 turn
 《 Điểm mạnh. chiêu gây sát thương lớn,sóng xung kích có khả năn mất khả năng chiến đấu,đồng thời còn phá chiêu đang thi triển của nạn nhân.
 《 Điểm yếu. Sóng xung kích không thể chặn được hiệu ứng bất tử và miễn khống chế.
 《 Tác dụng phụ. Vừa choáng nhẹ vừa nôn ra máu, giảm khả năng chiến đấu (hồi phục lại sau 2 turn)
